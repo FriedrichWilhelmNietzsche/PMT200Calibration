@@ -125,7 +125,7 @@
         }
 
         #endregion
-
+              
         private System.Windows.Forms.Button start;
         private System.Windows.Forms.Button save;
         private System.Windows.Forms.Button stop;
